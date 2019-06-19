@@ -21,9 +21,9 @@ topics here.
 
 - [x] Exploring The Repository:
   * capabilities-and-dep-mgmt
-        You have to acknowledge permissions and policies first prior to deploying
+         You have to acknowledge permissions and policies first prior to deploying
   * nested-applications
-        May be an abstraction of containerization and need to be realized prior too.
+         May be an abstraction of containerization and need to be realized prior too.
 - [x] Serverless Application Model (SAM) 
   * api-gateway-and-sam
         RESTful ways (or otherwise) to interact with serverless apps from AWS
