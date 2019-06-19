@@ -14,25 +14,25 @@ when developing solutions.
 
 ## Table of Contents
 ### How to follow this repo
-Files can be read by friendly-descriptive-names that correspond to topics below.
-You may read them with my suggested 00- based numbering prefix, or jump right to 
-specifics, the numbering is just a guide that may assist injesting some heavier 
-topics here.
+Files can be read by 00-friendly-descriptive-names that correspond to topics below.
+You may read them in order with my suggested 00- based numbering prefix, or jump 
+right to specifics, the numbering is just a guide that may assist injesting some 
+heavier topics here.
 
 - [x] Exploring The Repository:
   * capabilities-and-dep-mgmt
-    * You have to acknowledge permissions and policies first prior to deploying
+    > You have to acknowledge permissions and policies first prior to deploying.
   * nested-applications
     > May be an abstraction of containerization and need to be realized prior too.
 - [x] Serverless Application Model (SAM) 
   * api-gateway-and-sam
-        RESTful ways (or otherwise) to interact with serverless apps from AWS
+    > RESTful ways (or otherwise) to interact with serverless apps from AWS
   * sam-cli-commands
-        AWS SAM cli for interacting with resources via a terminal or script. 
+    > AWS SAM cli for interacting with resources via a terminal or script. 
 - [x] CloudFormation
-    Templating with YAML or other included spec like, xml parsable, ./configure settings.
+    > Templating with YAML or other included spec like, xml parsable, ./configure settings.
 - [x] Lambda
-    AWS service with "lambda" functions that assist management of serverless apps.
+    > AWS service with "lambda" functions that assist management of serverless apps.
 
 - [ ] Amazon Container Services
 - [ ] Docker
