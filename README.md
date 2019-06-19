@@ -19,8 +19,8 @@ You may read them in order with my suggested 00- based numbering prefix, or jump
 right to specifics, the numbering is just a guide that may assist injesting some 
 heavier topics here.
 
-- [x] Exploring The Repository:
-  * capabilities-and-dep-mgmt
+Exploring The Repository:
+- [x] capabilities-and-dep-mgmt
     > You have to acknowledge permissions and policies first prior to deploying.
   * nested-applications
     > May be an abstraction of containerization and need to be realized prior too.
