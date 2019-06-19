@@ -24,19 +24,19 @@ topics here.
         You have to acknowledge permissions and policies first prior to deploying
   * nested-applications
         May be an abstraction of containerization and need to be realized prior too.
-* Serverless Application Model (SAM) 
+- [x]Serverless Application Model (SAM) 
   * api-gateway-and-sam
         RESTful ways (or otherwise) to interact with serverless apps from AWS
   * sam-cli-commands
         AWS SAM cli for interacting with resources via a terminal or script. 
-* CloudFormation
+- [x]CloudFormation
     Templating with YAML or other included spec like, xml parsable, ./configure settings.
-* Lambda
+- [x]Lambda
     AWS service with "lambda" functions that assist management of serverless apps.
 
-* Amazon Container Services
-* Docker
-* Kubernetes
+- []Amazon Container Services
+- []Docker
+- []Kubernetes
 
 ## Gotchas
 When dealing with downloading prebuilt templates we have to perform some investigation
