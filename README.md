@@ -22,19 +22,19 @@ heavier topics here.
 Exploring The Repository:
 - [x] capabilities-and-dep-mgmt
     > You have to acknowledge permissions and policies first prior to deploying.
-  * nested-applications
+- [x] nested-applications
     > May be an abstraction of containerization and need to be realized prior too.
-- [x] Serverless Application Model (SAM) 
-  * api-gateway-and-sam
+Serverless Application Model (SAM) 
+- [x] api-gateway-and-sam
     > RESTful ways (or otherwise) to interact with serverless apps from AWS
-  * sam-cli-commands
+- [x] sam-cli-commands
     > AWS SAM cli for interacting with resources via a terminal or script. 
-- [x] CloudFormation
-    > Templating with YAML or other included spec like, xml parsable, ./configure settings.
-- [x] Lambda
-    > AWS service with "lambda" functions that assist management of serverless apps.
+CloudFormation
+- [ ] Templating with YAML or other included spec like, xml parsable, ./configure settings.
+Lambda
+- [ ] AWS service with "lambda" functions that assist management of serverless apps.
 
-- [ ] Amazon Container Services
+Amazon Container Services
 - [ ] Docker
 - [ ] Kubernetes
 
