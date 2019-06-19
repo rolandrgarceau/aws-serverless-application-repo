@@ -11,9 +11,12 @@ sam build
   ```sh
   sam build && sam local invoke
   ```
+  * where did my file go?
+
 sam deploy
   * command is an alias of aws cloudformation deploy
   > requires --template as the path for the SAM template file
   > requires --
+  
 ## Documentation
 https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-sam-cli-command-reference.html
