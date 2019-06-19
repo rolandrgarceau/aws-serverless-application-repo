@@ -19,7 +19,7 @@ You may read them with my suggested 00- based numbering prefix, or jump right to
 specifics, the numbering is just a guide that may assist injesting some heavier 
 topics here.
 
-* Exploring The Repository:
+- [x] Exploring The Repository:
   * capabilities-and-dep-mgmt
         You have to acknowledge permissions and policies first prior to deploying
   * nested-applications
