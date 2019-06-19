@@ -1,6 +1,7 @@
 # SAM cli commands
-Look a lot like docker. In fact running --use-container Link below will get you to the documenttion for flag 
-options when using sam. Don't foget --help if you need to.
+Look a lot like docker. In fact running --use-container can use Lambda like docker
+container. We will expand on this momentarily. Link below will get you to the 
+documenttion for flag options when using SAM. Don't foget --help if you need to.
 
 ## cheat sheet command summary
 sam build
@@ -8,10 +9,9 @@ sam build
   * Serches for the manifest file, For Python it looks for requirements.txt
   * Creates artifacts to deploy to Lambda with package and deploy commands.
   * can build locally to test using 
-    ```sh
-    sam build && sam local invoke
-    ```
-  * where did my file go?
+  ```sh
+  sam build && sam local invoke
+  ```
 
 sam deploy
   * command is an alias of aws cloudformation deploy
