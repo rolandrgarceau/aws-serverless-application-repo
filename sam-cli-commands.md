@@ -1,6 +1,6 @@
 # SAM cli commands
-Look a lot like docker. In fact running --use-container can use Lambda like docker
-container. We will expand on this momentarily. Link below will get you to the 
+Looks a lot like docker usage. In fact running --use-container can use a Lambda like 
+docker container. We will expand on this momentarily. Link below will get you to the 
 documenttion for flag options when using SAM. Don't foget --help if you need to.
 
 ## cheat sheet command summary
