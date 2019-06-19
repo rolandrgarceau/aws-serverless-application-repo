@@ -54,7 +54,8 @@ Firebase.io that will require your google credentials, and then possibly an
 authorization flow that is incorporated with OAuth2 or others that require accounts
 external to AWS. 
 
-We also may hsve to deal with CORS, and API Gateway, and Lambda- all of which 
+Even if our intention is not use all AWS services and modify our use case to fit,
+we still may hsve to deal with CORS, and API Gateway, and Lambda- all of which 
 require sufficient knowledge and configuration in their own right to bring into 
 a working, replicated application flow. Relax, we will chew it one byte at a time. 
 Some more complex configurations get abstracted away daily, like authorization 
