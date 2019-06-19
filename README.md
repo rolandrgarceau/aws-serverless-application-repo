@@ -34,9 +34,9 @@ topics here.
 - [x] Lambda
     AWS service with "lambda" functions that assist management of serverless apps.
 
-- [] Amazon Container Services
-- [] Docker
-- [] Kubernetes
+- [ ] Amazon Container Services
+- [ ] Docker
+- [ ] Kubernetes
 
 ## Gotchas
 When dealing with downloading prebuilt templates we have to perform some investigation
