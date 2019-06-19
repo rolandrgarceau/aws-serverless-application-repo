@@ -20,14 +20,14 @@ specifics, the numbering is just a guide that may assist injesting some heavier
 topics here.
 
 * Exploring The Repository:
-    capabilities-and-dep-mgmt
+  * capabilities-and-dep-mgmt
         You have to acknowledge permissions and policies first prior to deploying
-    nested-applications
+  * nested-applications
         May be an abstraction of containerization and need to be realized prior too.
 * Serverless Application Model (SAM) 
-    api-gateway-and-sam
+  * api-gateway-and-sam
         RESTful ways (or otherwise) to interact with serverless apps from AWS
-    sam-cli-commands
+  * sam-cli-commands
         AWS SAM cli for interacting with resources via a terminal or script. 
 * CloudFormation
     Templating with YAML or other included spec like, xml parsable, ./configure settings.
