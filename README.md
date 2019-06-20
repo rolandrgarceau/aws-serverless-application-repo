@@ -10,7 +10,8 @@ building our own projects for the cloud.
 This repo is designed as a step to "don't reinvent the wheel if you can" approach 
 for my rov-project prior to commencing code writing, and is a good architectural 
 approach in general to address already built or common open sourced concerns 
-when developing solutions.
+when developing solutions. There is another repo I published that addresses testing
+workflows for projects such as these, containerize-a-sam-container.
 
 ## Table of Contents
 ### How to follow this repo

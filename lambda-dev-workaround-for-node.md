@@ -1,4 +1,13 @@
-# The problem
+# Testing workflow solutions between a local machine environment and AWS  
+This repo can be used as a tool when looking through AWS Serverless Application 
+repository and developing testing workflows for deployment of their pre-built
+solutions. Manual version management per language and service may be an alternative 
+to this suggested approach, and can be mixed and matched for individual use cases.
+
+## Prerequisites
+A firm grasp of Linux, Node.js, Python, CI/CD pipelines on AWS, and Docker. 
+
+## The problem
 Containerizing serverless node.js applications for AWS to test locally on your
 machine is not as easy as deploying that same application with Lambda to your AWS
 account. SAM cli can be used to package and run your Lambda function locally, but
